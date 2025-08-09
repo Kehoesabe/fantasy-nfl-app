@@ -9,13 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/server.js"
+      "dest": "server.js"
     }
   ]
 }
-
-Click "Commit changes"
-
-STEP 2: Vercel will automatically redeploy
-After you commit this file, Vercel will detect the change and redeploy your app correctly as a Node.js backend.
-Add the vercel.json file to GitHub and tell me when it's committed!RetryClaude can make mistakes. Please double-check responses.
